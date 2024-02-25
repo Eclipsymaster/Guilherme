@@ -1,0 +1,66 @@
+Alguma dicas de onde estão alguns arquivos
+
+Manipulação e criação de area de spells "register_spells.lua"
+
+
+
+
+
+
+
+
+
+
+Profissões a serem criadas
+
+5 tribos dentro do jogo
+
+1º - humans
+
+Curandeiro - Distance(Luz)
+Paladino - Melee(Espadas)
+Mago - Distance(Todos elementos)
+Ninja - Melee/Distance(Espadas/Estrelas)
+
+2º - orcs
+
+Bárbaro - Melee(Machados)
+Lanceiro - Distance(Lanças)
+Shaman - Distance(Nature)
+Commander Melee/Distance(Todos itens de atack)
+
+3º - elfs
+
+Dark - Distance (Luz++)
+Light - Distance (Trevas++)
+Assassino - Distance(knifes) / Melee(Sword)
+Arqueiro - Distance(Arco e flexa)
+
+4º - magicos
+
+Beholden Distance(Lentes)
+Banshee Distance(Musical)
+Djin (Buffer)
+Bone archer (Arcos Crossbow)
+
+5º - anões
+
+Mineiros Melee (Picaretas)
+Besteiro Distance (Crossbow)
+Clubnder Melee (Club)
+Guerreiro Melee (Na mão)
+
+
+Mudanças dos nomes e variáveis das profissões causaram efeitos colaterais em seguintes lugares
+
+OBS:Foram feitas auterações minimas para a abertura do servidor
+
+C:\canary\data\libs\familiar.lua //															linha 2 a 5
+C:\canary\data-otservbr-global\lib\others\dawnport_lib.lua //								linha 6 a 15
+C:\canary\data\modules\scripts\daily_reward\daily_reward.lua //								linha 70 a 73
+C:\canary\data-otservbr-global\scripts\actions\quests\elemental_spheres\daily_reward.lua // linha 2 a 6
+C:\canary\data-otservbr-global\scripts\actions\quests\elemental_spheres\soils2.lua
+C:\canary\data-otservbr-global\npc\alexander.lua
+C:\canary\data-otservbr-global/npc\asima.lua 
+C:\canary\data-otservbr-global/npc\a_dead_bureaucrat1.lua
+e tem mais...
